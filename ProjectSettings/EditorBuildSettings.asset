@@ -6,31 +6,31 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scene/0_LightBaked.unity
+    path: Assets/0_Light/LightBaked.unity
     guid: 23d7518517bbf884795383eef30a7997
   - enabled: 1
-    path: Assets/Scene/1_Base.unity
+    path: Assets/1_Base/Base.unity
     guid: b55b8ccadd861294bbdcd61261d7a6f2
   - enabled: 1
-    path: Assets/Scene/2_Classic.unity
+    path: Assets/2_Classic/Classic.unity
     guid: 63bd9686d77b4524d9fc4a6be4ca4147
   - enabled: 1
-    path: Assets/Scene/3_Cyber.unity
+    path: Assets/3_Cyber/Cyber.unity
     guid: 9471c34854dad7d4d860ca52b698b5d4
   - enabled: 1
-    path: Assets/Scene/4_Island.unity
+    path: Assets/4_Island/Island.unity
     guid: 5224fd53e6f792e4c881ebf42b7feaa0
   - enabled: 1
-    path: Assets/Scene/5_Refraction.unity
+    path: Assets/5_Refraction/Refraction.unity
     guid: f3d7acaefa096e5449311a7d098897bc
   - enabled: 1
-    path: Assets/Scene/6_Horror.unity
+    path: Assets/6_FakeInterior/FakeInterior.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/7_DayNight/DayNight.unity
+    guid: faa15193152a87344929b41bb3a4345d
+  - enabled: 1
+    path: Assets/8_Horror/Horror.unity
     guid: 48e7ffddfb4b4cb45917eb29105f614d
-  - enabled: 1
-    path: Assets/Scene/7_Probuild.unity
-    guid: 0fda4587728019f47b1fcf889b6c8f98
-  - enabled: 1
-    path: Assets/Scene/8_Terrain.unity
-    guid: 2b06044fa80b5134fad7ccac75588362
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
