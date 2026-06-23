@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: S_FakeInterior_Cam
+  m_Name: M_FakeInterior_Cam
   m_Shader: {fileID: -6465566751694194690, guid: d4fae5f87cf66074b99e34084c6fa672, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
